@@ -23,23 +23,24 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="archeelp" />
+   <img src="https://github-readme-stats.vercel.app/api?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="adityapatkar_" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatkarAditya22&theme=tokyonight" alt="archeelp" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatkarAditya22&theme=tokyonight" alt="adityapatkar_" /> 
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="archeelp" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="adityapatkar_" />
 </p>
 
 <br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/archeel_parekh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saifkazi_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/archeel-parekh-985795146/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saif kazi" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/adipatkar_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="adityapatkar_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-patkar-b3361719b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adityapatkar_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adityapatkar22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="adityapatkar_" height="30" width="40" /></a>
 </p>
 
 

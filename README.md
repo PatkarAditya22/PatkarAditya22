@@ -29,11 +29,6 @@
    <img src="https://github-readme-stats.vercel.app/api?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="adityapatkar_" />
 </p>
 
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatkarAditya22&theme=tokyonight" alt="adityapatkar_" /> 
-</p>
-
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="adityapatkar_" />
 </p>

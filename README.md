@@ -14,6 +14,7 @@
 - 📫 How to reach me **adityapatkar22@gmail.com**
 
 <br>
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 

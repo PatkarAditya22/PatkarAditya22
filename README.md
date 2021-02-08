@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Patkar</h1>
 <img align="right" width="300" height="300" src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966"/>
 
+<p>Incoming Technology Consultant Summer Intern at PWC <img src="https://149448277.v2.pressablecdn.com/wp-content/uploads/2018/11/PwC.png" alt="bootstrap" width="50" height="50"/></p>
+
 - 🔭 I’m currently working on [MRI_SCANS_RESEARCH_PAPER]
 
 - 👨‍💻 Want to know more? Check out my [portfolio](https://www.adityapatkar.ml)

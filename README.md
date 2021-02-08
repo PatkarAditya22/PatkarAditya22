@@ -1,4 +1,17 @@
-### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Aditya Patkar</h1>
+
+- 🔭 I’m currently working on [MRI_SCANS_RESEARCH_PAPER]
+
+- 👨‍💻 Want to know more? Check out my [portfolio](https://www.adityapatkar.ml)
+
+- 🌱 I’m currently exploring **Machine Learning**
+
+- 💬 Ask me about **JavaScript and Python**
+
+- 📫 How to reach me **adityapatkar22@gmail.com**
+
+<br>
 
 <!--
 **PatkarAditya22/PatkarAditya22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -22,6 +22,28 @@
 <!-- <a href="https://graphql.org/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/graphql-512.png" alt="reactjs" width="40" height="40"/> </a> -->
 </p>
 
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="archeelp" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatkarAditya22&theme=tokyonight" alt="archeelp" /> 
+</p>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="archeelp" />
+</p>
+
+<br>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/archeel_parekh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saifkazi_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/archeel-parekh-985795146/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saif kazi" height="30" width="40" /></a>
+</p>
+
+
+
 <!--
 **PatkarAditya22/PatkarAditya22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

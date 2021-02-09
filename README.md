@@ -3,7 +3,7 @@
 
 <p>Incoming Technology Consultant Summer Intern at PWC'21 <img src="https://149448277.v2.pressablecdn.com/wp-content/uploads/2018/11/PwC.png" alt="bootstrap" width="50" height="50"/></p>
 
-- 🔭 I’m currently working on [MRI-SCANS]
+- 🔭 I’m currently working on [Research]
 
 - 👨‍💻 Want to know more? Check out my [portfolio](https://www.adityapatkar.ml)
 

@@ -36,7 +36,6 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="adityapatkar_" />
 </p>
-
 <br>
 
 <h3 align="center">Connect with me:</h3>

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Research]
 
-- 👨‍💻 Want to know more? Check out my [portfolio](https://www.adityapatkar.ml)
+- 👨‍💻 Want to know more? Check out my [portfolio](https://www.adityapatkar.ml/PatkarAditya22)
 
 - 🌱 I’m currently exploring **Machine Learning**
 

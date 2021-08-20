@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Patkar</h1>
 <img align="right" width="300" height="300" src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966"/>
 
-- <p>Upcoming Technical Analyst at Deutsche Bank <img src="https://logos-world.net/wp-content/uploads/2021/02/Deutsche-Bank-Emblem.png" alt="bootstrap" width="100" height="50"/></p>
+- <p>Upcoming Technology Analyst at Deutsche Bank <img src="https://logos-world.net/wp-content/uploads/2021/02/Deutsche-Bank-Emblem.png" alt="bootstrap" width="100" height="50"/></p>
 - <p> Ex-Technology Consultant Intern at PWC'21 <img src="https://149448277.v2.pressablecdn.com/wp-content/uploads/2018/11/PwC.png" alt="bootstrap" width="50" height="50"/></p>
 
 - 🔭 I’m currently working on [Research] & Internship

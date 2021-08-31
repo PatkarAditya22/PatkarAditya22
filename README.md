@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Patkar</h1>
 <img align="right" width="300" height="300" src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966"/>
 
-- <p>Upcoming Technology Analyst at Deutsche Bank <img src="https://logos-world.net/wp-content/uploads/2021/02/Deutsche-Bank-Emblem.png" alt="bootstrap" width="100" height="50"/></p>
+- <p>Incoming Technology Analyst at Deutsche Bank <img src="https://logos-world.net/wp-content/uploads/2021/02/Deutsche-Bank-Emblem.png" alt="bootstrap" width="100" height="50"/></p>
 - <p>Former Technology Consultant Intern at PWC'21 <img src="https://149448277.v2.pressablecdn.com/wp-content/uploads/2018/11/PwC.png" alt="bootstrap" width="50" height="50"/></p>
 
 - 🔭 I’m currently working on [Research] & Internship
@@ -15,7 +15,6 @@
 - 📫 How to reach me **adityapatkar22@gmail.com**
 
 <br>
-<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -26,18 +25,26 @@
 <!-- <a href="https://graphql.org/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/graphql-512.png" alt="reactjs" width="40" height="40"/> </a> -->
 </p>
 
+<br>
+<h3 align="center">Github Profile Trophy</h3>
+<p align="center" style="width:100%;">
+<img src="https://github-profile-trophy.vercel.app/?username=PatkarAditya22&theme=dracula&no-bg=true&row=1"/>
+</p>
+
+<h3 align="center">Github stats:</h3>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="adityapatkar_" />
 </p>
 
+<h3 align="center">Github readme streak</h3>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatkarAditya22&theme=tokyonight" alt="adityapatkar_" /> 
 </p>
 
+<h3 align="center">Top Languages</h3>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatkarAditya22&count_private=true&hide=stars&show_icons=true&theme=gotham&include_all_commits=false" alt="adityapatkar_" />
 </p>
-<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

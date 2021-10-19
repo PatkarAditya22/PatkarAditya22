@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as an SDE Intern at Work India and on [Research Paper]  
 
-- 👨‍💻 Want to know more? Check out my [portfolio](https://www.adityapatkar.ml/PatkarAditya22)
+- 👨‍💻 Want to know more? Check out my [portfolio](https://www.adityapatkar.ml)
 
 - 🌱 I’m currently exploring **Machine Learning & Blockchain**
 

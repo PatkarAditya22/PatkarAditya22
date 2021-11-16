@@ -3,8 +3,9 @@
 
 - <p>Incoming Technology Analyst at Deutsche Bank <img src="https://logos-world.net/wp-content/uploads/2021/02/Deutsche-Bank-Emblem.png" alt="bootstrap" width="100" height="50"/></p>
 - <p>Former Technology Consultant Intern at PWC'21 <img src="https://149448277.v2.pressablecdn.com/wp-content/uploads/2018/11/PwC.png" alt="bootstrap" width="50" height="50"/></p>
+- <p>Former Software Development Intern at WorkIndia'21 <img src="https://webcdn.workindia.in/assets/favicon.ico" alt="bootstrap" width="50" height="50"/></p
 
-- 🔭 I’m currently working as an SDE Intern at Work India and on [Research Paper]  
+- 🔭 I’m currently working on [Research Paper]  
 
 - 👨‍💻 Want to know more? Check out my [portfolio](https://www.adityapatkar.ml)
 
